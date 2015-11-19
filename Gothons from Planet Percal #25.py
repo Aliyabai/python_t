@@ -41,7 +41,7 @@ class CentralCorridor(Scene):
           print ""
           print ""
           print ""
-          print ""print ""
+          print ""
           
 class LaserWeaponArmory(Scene):
       
